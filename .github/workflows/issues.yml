@@ -1,7 +1,7 @@
 name: Handle issues wisely
 on: issues
 jobs:
-  output-info:s
+  output-info:
     runs-on: ubuntu-latest
     steps:
       - name: Output event details
